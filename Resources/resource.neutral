@@ -1,0 +1,7 @@
+<resources>
+	<resource key="Innovator.URL" value="Server URL (e.g. http://localhost/InnovatorServer)" />
+	<resource key="Innovator.DB" value="Database (e.g. InnovatorSolutions)"/>
+	<resource key="Innovator.Username" value="Innovator Username (e.g. root)" />
+	<resource key="Innovator.Password" value="Innovator Password" />
+	<resource key="Innovator.Dir" value="Innovator Directory (the directory containing InnovatorServerConfig.xml)" />
+</resources> 
