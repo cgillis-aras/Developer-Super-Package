@@ -1,0 +1,18 @@
+[submodule "find-active-debuggers"]
+	path = find-active-debuggers
+	url = https://github.com/ArasLabs/find-active-debuggers.git
+[submodule "run-client-method"]
+	path = run-client-method
+	url = https://github.com/ArasLabs/run-client-method.git
+[submodule "find-parent-package"]
+	path = find-parent-package
+	url = https://github.com/ArasLabs/find-parent-package.git
+[submodule "method-editor-theme-preference"]
+	path = method-editor-theme-preference
+	url = https://github.com/ArasLabs/method-editor-theme-preference.git
+[submodule "tree-grid-view-sample"]
+	path = tree-grid-view-sample
+	url = https://github.com/ArasLabs/tree-grid-view-sample.git
+[submodule "custom-search-mode"]
+	path = custom-search-mode
+	url = https://github.com/ArasLabs/custom-search-mode.git

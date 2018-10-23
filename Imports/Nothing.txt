@@ -1,0 +1,2 @@
+Temporary workaround to allow this package to run in Aras Update.
+An Aras Update package must have a non-empty Imports, Files, or Scripts folder.
