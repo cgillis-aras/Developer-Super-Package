@@ -10,6 +10,8 @@ The following Aras community projects are contained in this super package
 5. [Run Client Method](https://github.com/ArasLabs/run-client-method/)
 6. [Tree Grid View Sample](https://github.com/ArasLabs/tree-grid-view-sample/)
 
+This super package references these projects using Git submodules. Because of this you may notice that the folders for these projects are empty if you try to download this project directly from GitHub. Instead we recommend cloning this project to your local machine if you intend to use it. Depending the Git client you use, you may also have to manually pull the submodules. In the command line, the command would be `git submodule update --recursive`
+
 ## Project Details
 
 #### Built Using:
